@@ -144,4 +144,4 @@ def adSend(ctx,link,message):
 
 
 
-bot.run('ODU4MjE3MTg3MTY0Njg0MzI5.YNa7Cg.xt-Vkr7vtw8-8w4yen833L9R8JM')
+bot.run('TOKEN')
