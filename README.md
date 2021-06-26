@@ -5,7 +5,6 @@
 </p>
 
 # Table of Contents
-- [Sus Discord Bot](#sus-discord-bhot)
 - [Table of Contents](#table-of-contents)
 - [About the Project](#about-the-project)
 - [Usage](#usage)
@@ -13,7 +12,8 @@
 - [License](#license)
 - [The Team](#the-team)
 # About the Project
-
+A way for advertisers to advertise on one of the hottest social media platforms of 2021 and for server owners to
+earn some money on the side for hosting ads on their server.
 # Usage
 Add the bot using the link in our website. 
 
