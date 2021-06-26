@@ -25,4 +25,7 @@ There are a plenty of commands to choose from. The prefix is `ad`. You can chang
 # License
 This project is released under the MIT license, see `LICENSE` for more info.
 # The Team
-Joonseo Lee - [LinkedIn](https://www.linkedin.com/joonsauce), [Website](http://joonsauce.me)
+Yuvraj Dwivedi - [LinkedIn](https://www.linkedin.com/in/yuvrajdwivedi/), [Website]()
+Joonseo Lee - [LinkedIn](https://www.linkedin.com/joonsauce), [Website](https://joonsauce.me)
+Farzad Rahman - [LinkedIn](https://www.linkedin.com/in/farzadrahman/), [Website](https://farzadr.me)
+Tyseer Toufiq - [LinkedIn](https://www.linkedin.com/in/tyseer-toufiq-a3b8b11aa/), [Website](https://tyseer.tech)
