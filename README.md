@@ -1,7 +1,7 @@
 # EngHack2021 project: chAD
 
 <p align="center">
-<img src="img/logo.png" alt="chAD logo" height=300>
+<img src="https://cdn.discordapp.com/attachments/857452766121295889/858594575873343528/chadcoin2.png" alt="chAD logo" height=300>
 </p>
 
 # Table of Contents
@@ -12,20 +12,17 @@
 - [License](#license)
 - [The Team](#the-team)
 # About the Project
-A way for advertisers to advertise on one of the hottest social media platforms of 2021 and for server owners to
-earn some money on the side for hosting ads on their server.
+chAD allows Discord users to monetize social interactions and unlocks a new, more efficient way to advertise for marketers.
 # Usage
 Add the bot using the link in our website. 
 
-There are a plenty of commands to choose from. The prefix is `ad`. You can change the prefix to what you want in setting.py
 ### Command Types
-- help
-  - Displays help message for the bot
+There are no commands for this bot. The bot is controlled via the webapp.
 
 # License
 This project is released under the MIT license, see `LICENSE` for more info.
 # The Team
-Yuvraj Dwivedi - [LinkedIn](https://www.linkedin.com/in/yuvrajdwivedi/), [Website]()
+Yuvraj Dwivedi - [LinkedIn](https://www.linkedin.com/in/yuvrajdwivedi/), [Website](https://yuvdwi.github.io/)
 
 Joonseo Lee - [LinkedIn](https://www.linkedin.com/joonsauce), [Website](https://joonsauce.me)
 
