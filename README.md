@@ -1,7 +1,7 @@
 # EngHack2021 project: chAD
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/857452766121295889/858594575873343528/chadcoin2.png" alt="chAD logo" height=300>
+<img src="img/chadcoin.png" alt="chAD logo" height=300>
 </p>
 
 # Table of Contents
