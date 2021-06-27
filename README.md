@@ -29,3 +29,4 @@ Joonseo Lee - [LinkedIn](https://www.linkedin.com/joonsauce), [Website](https://
 Farzad Rahman - [LinkedIn](https://www.linkedin.com/in/farzadrahman/), [Website](https://farzadr.me)
 
 Tyseer Toufiq - [LinkedIn](https://www.linkedin.com/in/tyseer-toufiq-a3b8b11aa/), [Website](https://tyseer.tech) 
+
